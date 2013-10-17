@@ -1,14 +1,16 @@
 #Open Source
 
 Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
-
+*Anna Birna Ivarsdottir
+*Bjorg Marium Adamsdottir
 ## 1. Linux uppsetning
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
 ## 2. Uppsetning á vim && git
-
 Lýsið hvernig gekk að setja upp þessi tól.
+*thad gekk vel. vid settum inn skipuninna "sudo apt-get install vim og git-core". 
+
 
 ## 3. Unnið með Git (1. hluti)
 
@@ -23,3 +25,8 @@ Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum n�
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+*byrja á að fara inn á myschool og ýta á  linkinn  https://www.virtualbox.org/ undir verkefni 7 
+*síðan sækja VirtualBox 4.2.18 for Windows hosts  x86/amd64. þegar það er búið að halast niður fara inn a thessa slod
+*http://virtualboxes.org/images/ubuntu/ o . og sottum ubuntu
+*opna sidan ubuntu yta a settings,usb og haka i enable usb controler.
+
